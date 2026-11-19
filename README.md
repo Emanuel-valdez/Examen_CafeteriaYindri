@@ -39,7 +39,8 @@ María Pérez (frecuente); Sándwich 180, cantidad 2, grande = 410; Jugo 120, ca
 ## 6\. Capturas de pantalla (si no salen aqui igual se ven en la carpeta capturas
 
 
-(capturas/captura1.png)
+(capturas/captura1.png) <img width="1448" height="845" alt="captura1" src="https://github.com/user-attachments/assets/0d324685-c131-443d-84eb-c8c64a7a4109" />
+
 
 **Caso de prueba calculado**
 
