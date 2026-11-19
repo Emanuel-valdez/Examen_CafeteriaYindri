@@ -35,7 +35,6 @@ Aplicación de escritorio en Windows Forms (C#) con un solo formulario (`frmPedi
 
 María Pérez (frecuente); Sándwich 180, cantidad 2, grande = 410; Jugo 120, cantidad 1, con porción extra = 150; para llevar.
 
-Resultado esperado: subtotal 560.00 · descuento 56.00 · empaque 20.00 · base 524.00 · ITBIS 94.32 · **total RD$ 618.32**.
 
 ## 6\. Capturas de pantalla
 
