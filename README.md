@@ -36,7 +36,7 @@ Aplicación de escritorio en Windows Forms (C#) con un solo formulario (`frmPedi
 María Pérez (frecuente); Sándwich 180, cantidad 2, grande = 410; Jugo 120, cantidad 1, con porción extra = 150; para llevar.
 
 
-## 6\. Capturas de pantalla (si no salen aqui igual se ven el la carpeta capturas
+## 6\. Capturas de pantalla (si no salen aqui igual se ven en la carpeta capturas
 
 
 (capturas/captura1.png)
