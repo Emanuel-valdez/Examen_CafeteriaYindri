@@ -36,13 +36,16 @@ Aplicación de escritorio en Windows Forms (C#) con un solo formulario (`frmPedi
 María Pérez (frecuente); Sándwich 180, cantidad 2, grande = 410; Jugo 120, cantidad 1, con porción extra = 150; para llevar.
 
 
-## 6\. Capturas de pantalla (si no salen aqui igual se ven en la carpeta capturas
+## 6\. Capturas de pantalla 
 
 
-(capturas/captura1.png) <img width="1448" height="845" alt="captura1" src="https://github.com/user-attachments/assets/0d324685-c131-443d-84eb-c8c64a7a4109" />
+(capturas/captura1.png)
+<img width="1448" height="845" alt="captura1" src="https://github.com/user-attachments/assets/0d324685-c131-443d-84eb-c8c64a7a4109" />
 
 
 **Caso de prueba calculado**
 
 !\[Caso de prueba](capturas/captura2.png)
+<img width="1448" height="845" alt="captura1" src="https://github.com/user-attachments/assets/c8a920b7-bbd6-41d1-8ad9-1fad30a1a38b" />
+
 
