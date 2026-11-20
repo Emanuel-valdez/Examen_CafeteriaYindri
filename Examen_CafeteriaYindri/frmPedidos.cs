@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Globalization;
 using System.Windows.Forms;
 
-// IMPORTANTE: deja el namespace que Visual Studio creó en tu proyecto original.
+
 namespace Examen_CafeteriaYindri
 {
     public partial class frmPedidos : Form
